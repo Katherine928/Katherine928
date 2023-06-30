@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katherine</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack software engineer</h3>
 <p>I often think that the human brain is a crazy place, and in my brain, there are two things that fascinate me the most are coding and learning. After graduating with my Master’s degree in Education, I fell in love with coding, and it really excites me whenever I come across a problem, I get curious about solving it and whenever I got an idea, I have the ability to bring it to life.<br/>
 
 If you are looking for someone who loves to learn, then I am your best candidate. I spent around a year learning how to code on my own before going to a coding bootCamp and I even successfully built a few projects on my own.<br/>
